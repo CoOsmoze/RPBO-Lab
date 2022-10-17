@@ -1,0 +1,16 @@
+D:\MY_WORKS\C#\Threads\Threads\bin\Debug\net6.0\Threads.exe
+D:\MY_WORKS\C#\Threads\Threads\bin\Debug\net6.0\Threads.deps.json
+D:\MY_WORKS\C#\Threads\Threads\bin\Debug\net6.0\Threads.runtimeconfig.json
+D:\MY_WORKS\C#\Threads\Threads\bin\Debug\net6.0\Threads.dll
+D:\MY_WORKS\C#\Threads\Threads\bin\Debug\net6.0\Threads.pdb
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.csproj.AssemblyReference.cache
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.AssemblyInfoInputs.cache
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.AssemblyInfo.cs
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.csproj.CoreCompileInputs.cache
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.dll
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\refint\Threads.dll
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.pdb
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.genruntimeconfig.cache
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\ref\Threads.dll
+D:\MY_WORKS\C#\Threads\Threads\obj\Debug\net6.0\Threads.csproj.ResolveComReference.cache
